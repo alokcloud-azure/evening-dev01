@@ -1,0 +1,15 @@
+{
+	"name": "alokdataactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a309e5a-5396-4eeb-9818-ef8e5bc2bc97",
+		"tenantId": "812857d1-fefc-463e-aa56-26179add1b77"
+	}
+}
